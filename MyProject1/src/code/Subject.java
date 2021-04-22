@@ -24,7 +24,7 @@ public class Subject {
 	public void setCredits(int credits) {
 		this.credits = credits;
 	}
-	
+	//added
 	
 
 }
